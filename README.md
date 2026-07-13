@@ -4,3 +4,4 @@ I write code, gamedev and tools, pure coding, no big engines, C, C3 and Odin pro
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/helioscout)
 [![Follow me](https://img.shields.io/twitter/follow/helioscout
 )](https://x.com/helioscout)
+[![Code mirror](https://img.shields.io/badge/mirror-sourcehut-blue)](https://sr.ht/~helioscout)
