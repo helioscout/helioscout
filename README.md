@@ -9,7 +9,7 @@ In this era of AI and the hype surrounding it, in this era of capitalism and rap
 \
 Hardware is becoming ever more powerful and faster, but software continues to run slowly. What's the secret? Isn't it that a development stack is being forced upon us, and software is being churned out like matches in a factory, which is then sold for big money by our "respected" employers. Their priority is to quickly get results—profits—but what about us?\
 \
-Software must run quickly, because there's nothing, from a technical or programming perspective, that can hinder it. Everything has already been invented before us; all that's left is to learn it and not be afraid to write code with your own hands and brains. Let the quotes continue:\
+Software must run quickly, because there's nothing, from a technical or programming perspective, that can hinder it. Everything has already been invented before us; all that's left is to learn it and not be afraid to write code with your own hands and brains. Let the quotes continue:
 
 *“I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand about the many connections and relations which occur to me, how the matter in question was first thought of or arrived at, etc., etc.”*\
 **― Ada Lovelace**\
