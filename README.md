@@ -1,5 +1,6 @@
 I write code, gamedev and tools, pure coding, no big engines, open source C and C3 programming, code craftsmanship.
 
+[![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
 [![Follow me](https://img.shields.io/twitter/follow/helioscout)](https://x.com/helioscout)
 
