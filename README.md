@@ -2,6 +2,7 @@ I write code, gamedev and tools, pure coding, no big engines, open source C and 
 
 [![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
+[![Code mirror](https://img.shields.io/badge/codeberg-code-orange?logo=codeberg)](https://codeberg.org/helioscout)
 [![Follow me](https://img.shields.io/twitter/follow/helioscout)](https://x.com/helioscout)
 
 I'm a self-**mo**tivated **dev**eloper from a future that's already in the past. But time is linear only in our minds, and everything eventually returns in a new binary form.\
