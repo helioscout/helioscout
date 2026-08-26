@@ -1,4 +1,4 @@
-I write code, gamedev and tools.
+![Kharkiv](https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg) I write code, gamedev and tools.
 
 [![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
