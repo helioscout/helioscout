@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" align="left" style="margin-right: 10px;">
-I write code, gamedev and tools.
-
-<div style="clear: both;"></div>
+<img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" style="float: left;"> I write code, gamedev and tools.
 
 [![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
