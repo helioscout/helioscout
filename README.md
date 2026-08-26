@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="text-align: middle;">
+    <td>
       <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv">
     </td>
     <td valign="middle">
