@@ -1,8 +1,8 @@
 <dl>
-  <dt style="float: left;">
+  <dt style="float: left; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv">
   </dt>
-  <dd style="display: inline-block; vertical-align: middle; margin: 0;">
+  <dd style="display: inline-block; vertical-align: middle; margin: 0; padding-top: 35px;">
     I write code, gamedev and tools.
   </dd>
 </dl>
