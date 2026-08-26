@@ -1,13 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv">
-    </td>
-    <td valign="middle">
-      I write code, gamedev and tools.
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" align="left" style="max-width: 100%; display: inline-block;" alt="Kharkiv">
+<p>I write code, gamedev and tools.</p>
+<br clear="left"/>
 
 [![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
