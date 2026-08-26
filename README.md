@@ -1,5 +1,11 @@
-<img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" align="left" style="max-width: 100%; display: inline-block;" alt="Kharkiv">
-<p>I write code, gamedev and tools.</p>
+<dl>
+  <dt style="float: left;">
+    <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv">
+  </dt>
+  <dd style="display: inline-block; vertical-align: middle; margin: 0;">
+    I write code, gamedev and tools.
+  </dd>
+</dl>
 <br clear="left"/>
 
 [![Support](https://img.shields.io/liberapay/patrons/modev.svg?logo=liberapay)](https://liberapay.com/modev)
