@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv" style="margin-top: 5px;">
+      <img src="https://raw.githubusercontent.com/helioscout/helioscout/refs/heads/main/kharkiv.svg" alt="Kharkiv" style="margin: 5px 0px auto 0px;">
     </td>
     <td valign="middle">
       I write code, gamedev and tools.
