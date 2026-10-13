@@ -4,3 +4,5 @@ I write code, gamedev and tools.
 [![Code mirror](https://img.shields.io/badge/sourcehut-code-orange?logo=sourcehut)](https://sr.ht/~helioscout)
 [![Code mirror](https://img.shields.io/badge/codeberg-code-orange?logo=codeberg)](https://codeberg.org/helioscout)
 [![YouTube](https://img.shields.io/badge/youtube-red?logo=youtube)](https://www.youtube.com/@helioscout)
+[![Bluesky](https://img.shields.io/bluesky/followers/helioscout.bsky.social
+)](https://bsky.app/profile/helioscout.bsky.social)
